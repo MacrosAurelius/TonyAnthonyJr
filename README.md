@@ -51,14 +51,10 @@ As a student of Per Scholas and a passionate learner in the field of cybersecuri
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
-<img src="https://img.shields.io/badge/-Operating_Systems_Basics-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Computer_Hardware_Basics-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux_Essentials-000080?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/47134f44-b47d-4f1e-9d5a-75603c025ac9"><img src="https://img.shields.io/badge/-Operating_Systems_Basics-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/b346b5bc-b558-4b73-89fc-bb32e71e69d7"><img src="https://img.shields.io/badge/-Computer_Hardware_Basics-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/793a6c64-c6ac-4417-9f34-f39c257ef6e3/public_url"><img src="https://img.shields.io/badge/-Linux_Essentials-000080?&style=for-the-badge&logo=linux&logoColor=white" /></a>
+
 
 </div>
 
