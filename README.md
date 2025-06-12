@@ -48,7 +48,6 @@ As a student of Per Scholas and a passionate learner in the field of cybersecuri
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
 <a href="https://www.credly.com/badges/47134f44-b47d-4f1e-9d5a-75603c025ac9"><img src="https://img.shields.io/badge/-Operating_Systems_Basics-1D63ED?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
