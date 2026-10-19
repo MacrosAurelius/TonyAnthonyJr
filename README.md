@@ -1,19 +1,14 @@
 # I’m Tony Anthony Jr — Cybersecurity Enthusiast & Analyst in Training
 <a href="https://www.linkedin.com/in/tonyanthonywilliams/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am an inspiring Cybersecurity Analyst currently training at Per Scholas, working toward obtaining the CompTIA CySA+ and Splunk Certified User certifications. I am focused on developing hands-on skills in SOC operations, security monitoring, and incident response. I’m committed to growing and gaining proficiency as a Cybersercuity Analyst and contributing to a more secure digital landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 As a student of Per Scholas and a passionate learner in the field of cybersecurity, my objective is to…
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-(EXAMPLE) Each project is linked to demonstrate practical application in real-world security operations.
+(EXAMPLE) Each project is linked to demonstrate practical application in real-world operations.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -25,7 +20,6 @@ As a student of Per Scholas and a passionate learner in the field of cybersecuri
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
