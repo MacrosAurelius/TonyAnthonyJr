@@ -1,4 +1,4 @@
-# I’m Tony Anthony Jr — Cybersecurity Enthusiast & Analyst in Training
+# I’m Tony Anthony Jr — Tech Enthusiast & Network Engineer in Training
 <a href="https://www.linkedin.com/in/tonyanthonywilliams/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring Network Engineer currently open-for-work in an environment that presents me with the opportunity to learn new concepts and collaborate as a team member. I also successfully completed the Per Scholas’ Cybersecurity Training Course (May 2025). Attending Per Scholas was an eye opening, passion deepening experience that led me to want to obtain the CCNA certificate, and eventually gain proficiency using Linux systems. To further develop myself and my skills I am self-educating and working on projects that will be hosted here on GitHub.
