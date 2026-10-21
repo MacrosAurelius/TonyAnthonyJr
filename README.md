@@ -1,45 +1,28 @@
 # I’m Tony Anthony Jr — Cybersecurity Enthusiast & Analyst in Training
 <a href="https://www.linkedin.com/in/tonyanthonywilliams/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an inspiring Cybersecurity Analyst currently training at Per Scholas, working toward obtaining the CompTIA CySA+ and Splunk Certified User certifications. I am focused on developing hands-on skills in SOC operations, security monitoring, and incident response. I’m committed to growing and gaining proficiency as a Cybersercuity Analyst and contributing to a more secure digital landscape.
+I am an aspiring Network Engineer currently open-for-work in an environment that presents me with the opportunity to learn new concepts and collaborate as a team member. I also successfully completed the Per Scholas’ Cybersecurity Training Course (May 2025). Attending Per Scholas was an eye opening, passion deepening experience that led me to want to obtain the CCNA certificate, and eventually gain proficiency using Linux systems. To further develop myself and my skills I am self-educating and working on projects that will be hosted here on GitHub.
+
+I will update my portfolio as I learn to use new tools, update projects that I am working on, and earn certificates.
 
 ## Objective
 
-As a student of Per Scholas and a passionate learner in the field of cybersecurity, my objective is to…
+My objective is to gain proficiency in technological specialties by using trusted resources to study and practice by building projects that I enjoy and will be applicable in real-world application.
 
 ## Skills
-(EXAMPLE) Each project is linked to demonstrate practical application in real-world operations.
+Each project is linked to demonstrate practical application in real-world operations.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|INSERT                                         | <a href="link">Project_Name</a>|
+|INSERT                                         | <a href="link">Project_Name</a>|
+|INSERT                                         | <a href="link">Project_Name</a>|
+|INSERT                                         | <a href="link">Project_Name</a>|
+|INSERT                                         | <a href="link">Project_Name</a>|
+|INSERT                                         | <a href="link">Project_Name</a>|
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
